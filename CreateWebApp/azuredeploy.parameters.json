@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "workspaceName": {
-      "value": "armwsone"
+      "value": "armLAW"
     },
     "automationAccountName": {
-      "value": "armaaone"
+      "value": "armAA"
     },
     "automationAccountLocation": {
-      "value": "uksouth"
+      "value": "Southeast Asia"
     }
   }
 }
